@@ -1,2 +1,2 @@
 # 598Project
-Project for 598PS
+A CNN Speech Emotion Recognition Project for 598PS
